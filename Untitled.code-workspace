@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "/Users/hafsa/Desktop/untitled folder"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "infinite-scroll-posts"
+  }
+}

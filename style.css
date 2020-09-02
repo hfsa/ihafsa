@@ -5,7 +5,7 @@ html {
 
 .bgimg {
   /* Background image */
-  background-image: url('background.jpeg');
+  background-color: #F8F8F8 ;
   /* Full-screen */
   height: 100%;
   /* Center the background image */
