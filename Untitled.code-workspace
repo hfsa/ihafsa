@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "tryouts",
+			"path": "../tryouts"
+		},
+		{
+			"name": "Unibuddy",
+			"path": "../Unibuddy"
+		},
+		{
+			"name": "ihafsa",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "unibuddy1",
+		"git.ignoreLimitWarning": true
+	}
+}
