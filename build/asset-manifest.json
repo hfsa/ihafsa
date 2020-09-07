@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ihafsa/static/css/main.893d4c11.chunk.css",
-    "main.js": "/ihafsa/static/js/main.3f1a31c0.chunk.js",
-    "main.js.map": "/ihafsa/static/js/main.3f1a31c0.chunk.js.map",
+    "main.css": "/ihafsa/static/css/main.e427dfa7.chunk.css",
+    "main.js": "/ihafsa/static/js/main.268f111c.chunk.js",
+    "main.js.map": "/ihafsa/static/js/main.268f111c.chunk.js.map",
     "runtime-main.js": "/ihafsa/static/js/runtime-main.c535a518.js",
     "runtime-main.js.map": "/ihafsa/static/js/runtime-main.c535a518.js.map",
     "static/js/2.2244ff31.chunk.js": "/ihafsa/static/js/2.2244ff31.chunk.js",
     "static/js/2.2244ff31.chunk.js.map": "/ihafsa/static/js/2.2244ff31.chunk.js.map",
     "index.html": "/ihafsa/index.html",
-    "precache-manifest.5c725c78b5d39b5ed815608bd2703a78.js": "/ihafsa/precache-manifest.5c725c78b5d39b5ed815608bd2703a78.js",
+    "precache-manifest.189855b4cd77c0610dd335dbefd6d29b.js": "/ihafsa/precache-manifest.189855b4cd77c0610dd335dbefd6d29b.js",
     "service-worker.js": "/ihafsa/service-worker.js",
-    "static/css/main.893d4c11.chunk.css.map": "/ihafsa/static/css/main.893d4c11.chunk.css.map",
+    "static/css/main.e427dfa7.chunk.css.map": "/ihafsa/static/css/main.e427dfa7.chunk.css.map",
     "static/js/2.2244ff31.chunk.js.LICENSE.txt": "/ihafsa/static/js/2.2244ff31.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c535a518.js",
     "static/js/2.2244ff31.chunk.js",
-    "static/css/main.893d4c11.chunk.css",
-    "static/js/main.3f1a31c0.chunk.js"
+    "static/css/main.e427dfa7.chunk.css",
+    "static/js/main.268f111c.chunk.js"
   ]
 }
